@@ -31,4 +31,4 @@ const Todo = () => {
     );
 }
 
-export default todo;
+export default Todo;
